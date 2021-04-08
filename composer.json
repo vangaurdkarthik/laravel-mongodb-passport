@@ -1,6 +1,6 @@
 {
     "name": "vangaurd/mongodb-passport",
-    "description": "A package to allow laravel/passport use with jenssegers/laravel-mongodb",
+    "description": "A package to allow laravel 8 /passport use with jenssegers/laravel-mongodb",
     "homepage": "https://github.com/vangaurdkarthik/laravel-mongodb-passport",
     "license": "MIT",
     "keywords": [
